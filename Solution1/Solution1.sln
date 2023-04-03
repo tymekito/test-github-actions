@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleUnitTests", "SimpleUnitTests\SimpleUnitTests.csproj", "{F3511176-9305-4012-89E6-9FC918A68297}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApp.Tests", "SimpleApp.Tests\SimpleApp.Tests.csproj", "{F3511176-9305-4012-89E6-9FC918A68297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{EC9628B7-7141-45BC-88ED-FF2B2789F880}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApp", "SimpleApp\SimpleApp.csproj", "{EC9628B7-7141-45BC-88ED-FF2B2789F880}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
