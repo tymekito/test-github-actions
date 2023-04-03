@@ -11,8 +11,7 @@ public class TestMathFunctions
     {
         var result = MathFunctions.AddNumbers(2, 2);
 
-        //result.Should().Be(6);
-        Assert.Equal(6, result);
+        result.Should().Be(4);
     }
 
 }
