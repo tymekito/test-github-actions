@@ -25,5 +25,8 @@ jobs:
       working-directory: Solution1/SimpleApp
     - name: Build
       run: dotnet build --no-restore
+      working-directory: Solution1/SimpleApp
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      working-directory: Solution1/SimpleApp.Tests
+
