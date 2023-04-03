@@ -11,7 +11,7 @@ public class TestMathFunctions
     {
         var result = MathFunctions.AddNumbers(2, 2);
 
-        result.Should().Be(5);
+        result.Should().Be(6);
     }
 
 }
